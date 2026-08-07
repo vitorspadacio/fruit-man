@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://wcsqha3gaybe"]
 
 [ext_resource type="Texture2D" uid="uid://cgn7yp4visuso" path="res://player/assets/Idle (32x32).png" id="1_oul6g"]
-[ext_resource type="Script" uid="uid://dghgquyg7onm0" path="res://player/script/player.gd" id="1_rkbax"]
+[ext_resource type="Script" uid="uid://dghgquyg7onm0" path="res://player/player.gd" id="1_rkbax"]
 [ext_resource type="Texture2D" uid="uid://q6aa8hce6naa" path="res://player/assets/Fall (32x32).png" id="2_qjkh3"]
 [ext_resource type="Texture2D" uid="uid://bn2uuuc3qqtd" path="res://player/assets/Jump (32x32).png" id="3_g1dw6"]
 [ext_resource type="Texture2D" uid="uid://04mehmuk04u7" path="res://player/assets/Run (32x32).png" id="4_yw30f"]
